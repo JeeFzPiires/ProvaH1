@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tW8GXxr2LlxpTH0e0HvodZZMN1O8eM9mFsd/4I9J3NAf4Fp0IWafQYkSqqvfC7Tz9sag4qBj7rKOXK5UpMWdFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeferson Piires\\Documents\\Visual Studio 2019\\ProvaH1\\ProvaH1-Frete\\ProvaH1-Frete\\ProvaH1-Frete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeferson Piires\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Jeferson Piires\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Jeferson Piires\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\Jeferson Piires\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
