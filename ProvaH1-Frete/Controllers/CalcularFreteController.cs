@@ -20,6 +20,10 @@ namespace ProvaH1_Frete.Controllers
         [HttpPost("CalcularFrete")]
         public ActionResult CalcularFrete(Frete frete)
         {
+            if (frete.ComprimentoCm + frete.LarguraCm + frete.AlturaCm > 200)
+            {
+                return BadRequest("Valor da soma maior superior a 200");
+            }
 
             if(frete.tipoPostagem == 1)
             {
